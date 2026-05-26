@@ -1,0 +1,11 @@
+.ruff_cache
+*.csv
+!real_data.csv
+!cleaned_dataset.csv
+!sncf_cleaned.csv
+.venv
+.ipynb*
+*.html
+__pycache__
+.tardis_cache
+# ignores the real dataset used (so we can test), and the one to put on github

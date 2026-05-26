@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+streamlit
+datetime
+scikit-learn
+seaborn
+folium
+joblib
+requests
