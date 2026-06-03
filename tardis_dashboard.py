@@ -127,6 +127,7 @@ st.image("assets/title.png")
 
 # Home
 if menu == "HOME":
+    st.subheader("Le projet est accessible ici : https://github.com/Hebijaaj/Tardis")
     try:
         readme_content = open("README.md", "r", encoding="utf-8").read()
         st.markdown(readme_content)
